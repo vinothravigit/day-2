@@ -1,0 +1,16 @@
+window Object:
+
+The window object represents the global browser window or tab.
+It serves as the global object in client-side JavaScript, providing a global scope for variables and functions.
+Properties and methods associated with the window object relate to the browser environment, such as window.innerWidth, window.location, and window.alert().
+It encompasses the entire browsing context and includes features like navigation, history, and the ability to open new windows or frames.
+
+document Object:
+
+The document object represents the HTML document loaded in the browser window or tab.
+It is a property of the window object and can be accessed globally in client-side JavaScript.
+Properties and methods associated with the document object relate to the content and structure of the HTML document, such as document.getElementById(), d
+ocument.createElement(), and document.title.It allows interaction with the content of the web page, including manipulation of HTML elements, handling events, 
+and modifying the document structure. In summary, the window object represents the entire browser window and provides global features, while the document object
+ is a part of the window object and specifically represents the HTML document, enabling interaction and manipulation of the document's structure and content. 
+Understanding the distinction between these two objects is essential for effective client-side web development.
